@@ -6,6 +6,7 @@ Uses OpenAI's Chat model and generating the response as well as translating into
 An example to demonstrate the usage of sequential chains of LangChain framework.
 
 # Prerequisites
+```
 pip install langchain
 pip install openai
-
+```
