@@ -9,6 +9,13 @@ An example to demonstrate the usage of sequential chains of LangChain framework.
 ```
 pip install langchain
 pip install openai
+pip install streamlit
 ```
 
+# How to run the application
+```
+streamlit run app.py
+```
+
+# Application Screenshot
 ![Lullaby](https://github.com/amzadb/LullabyGenerator/assets/11292254/652ffdbc-b01a-4872-bab5-075facebd857)
